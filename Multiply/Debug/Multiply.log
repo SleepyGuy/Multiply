@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\thecoldone\documents\visual studio 2015\projects\multiply\multiply\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  Multiply.vcxproj -> c:\users\thecoldone\documents\visual studio 2015\Projects\Multiply\Debug\Multiply.exe
+  Multiply.vcxproj -> c:\users\thecoldone\documents\visual studio 2015\Projects\Multiply\Debug\Multiply.pdb (Full PDB)
